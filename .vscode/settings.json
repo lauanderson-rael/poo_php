@@ -1,0 +1,9 @@
+
+{
+    "intelephense.completion.insertUseDeclaration": false,
+    "intelephense.completion.triggerParameterHints": false,
+    "intelephense.files.associations": [
+        "*.php",
+        "*.phtml"
+    ]
+}
