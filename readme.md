@@ -1,4 +1,4 @@
-## POO com PHP
+## Programação Orientada a Objetos com PHP
 
 - objetos
 - classes
@@ -7,3 +7,4 @@
     - composição
 - encapsulamento
 - heranca
+- polimorfismo
